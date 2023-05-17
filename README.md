@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif)" width="100"/>
-</div>
-
 <!--
 **SmBijoy675/SmBijoy675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
