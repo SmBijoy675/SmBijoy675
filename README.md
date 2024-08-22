@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bijoy and I'm a Front-End enginner.</h2>
+<h2 align="left">Hi 👋! My name is Bijoy and I'm a Front-End Engineer.</h2>
 
 ###
 
@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 ###
 
 <br clear="both">
